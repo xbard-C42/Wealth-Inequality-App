@@ -1,0 +1,16 @@
+[
+  { "percentile": 0.01, "wealth": 0 },
+  { "percentile": 0.10, "wealth": 1000 },
+  { "percentile": 0.20, "wealth": 5000 },
+  { "percentile": 0.30, "wealth": 15000 },
+  { "percentile": 0.40, "wealth": 35000 },
+  { "percentile": 0.50, "wealth": 65000 },
+  { "percentile": 0.60, "wealth": 100000 },
+  { "percentile": 0.70, "wealth": 150000 },
+  { "percentile": 0.80, "wealth": 250000 },
+  { "percentile": 0.90, "wealth": 500000 },
+  { "percentile": 0.95, "wealth": 1000000 },
+  { "percentile": 0.99, "wealth": 10000000 },
+  { "percentile": 0.999, "wealth": 100000000 },
+  { "percentile": 1.0, "wealth": 1000000000 }
+]
